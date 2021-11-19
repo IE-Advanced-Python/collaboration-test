@@ -9,5 +9,5 @@ gitpod.io/#
 at the beginning of the URL, for example
 
 ```
-gitpod.io/#https://github.com/astrojl-test/collaboration-test/edit/main/README.md
+gitpod.io/#https://github.com/astrojl-test/collaboration-test/
 ```
